@@ -4,6 +4,7 @@ I'm an experienced web application developer and architect with years of experti
 
 Currently, my interests, research and experimentation include:
 
+- 🥽 International XR hackathons, competitions, and bootcamps
 - 🤖 Multi-agent architectures and workflows using frameworks such as LangGraph
 - 🧠 Multi-modal Agent skill development
-- 🥽 International VR and XR hackathons, competitions, and bootcamps
+- ♿ Using multi-modal LLMs, XR, and wearable tech for accessibility
